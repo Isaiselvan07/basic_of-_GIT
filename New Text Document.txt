@@ -1,1 +1,2 @@
 basic function of git 
+first commit 
