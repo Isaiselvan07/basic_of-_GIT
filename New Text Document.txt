@@ -1,2 +1,3 @@
 basic function of git 
 first commit 
+edit the line 
