@@ -1,4 +1,5 @@
 basic function of git 
 first commit 
-edit the line 
+edit the 
 Remove "line" in 3rd line 
+----- did 4th line 
